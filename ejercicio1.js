@@ -1,4 +1,4 @@
-/* Integrantes: Nombre miguel calero - Anshelo Proaño
+/* Integrantes: Nombre miguel calero - Anshelo Alejandro
 Curso: 1ero A
 1. En una tienda de calzado se esta ofreciendo un descuento por compra a sus clientes con categorías, dependiendo de su tipo, sólo existen tres tipos de categorías, tipo A, tipo B y tipo C. Los descuentos son los siguientes:
 
